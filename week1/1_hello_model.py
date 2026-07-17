@@ -6,9 +6,9 @@ catalog = manager.catalog
 
 model = catalog.get_model("qwen3-0.6b")
 
-print("Model indiriliyor...")
+print("Downloading model...")
 model.download()
-print(f"İndirildi mi: {model.is_cached}")
+print(f"Cached: {model.is_cached}")
 
 model.load()
 
