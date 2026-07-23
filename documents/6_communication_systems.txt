@@ -1,0 +1,5 @@
+Aircraft Communication Systems
+
+VHF (Very High Frequency) radios are the primary communication tool for air traffic control, operating in the 118-137 MHz range with a limited line-of-sight range of about 200 nautical miles. For long-haul flights over oceans where VHF range is insufficient, aircraft use HF (High Frequency) radio or satellite communication (SATCOM) systems, which can relay signals across the globe via orbiting satellites.
+
+ACARS (Aircraft Communications Addressing and Reporting System) is a digital datalink system that automatically transmits flight data, such as engine performance and position reports, to airline operations centers without pilot input. This allows ground crews to monitor aircraft health in real time and prepare maintenance actions before the aircraft even lands.

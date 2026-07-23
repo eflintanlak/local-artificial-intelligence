@@ -1,0 +1,5 @@
+Lightning Protection and EMI Shielding
+
+Aircraft are struck by lightning more often than most people realize, roughly once per every 1,000 to 10,000 flight hours. To protect against this, aircraft skins are designed to conduct lightning current across the surface and safely discharge it through static wicks at the wingtips and tail, without damaging internal systems or fuel tanks.
+
+Electromagnetic Interference (EMI) shielding protects sensitive avionics from both lightning strikes and interference from onboard electronic devices. Wiring is often routed through shielded conduits, and critical flight control computers are placed in Faraday cage-like enclosures that block external electromagnetic fields, ensuring reliable operation of navigation and control systems even during electrical storms.

@@ -1,0 +1,5 @@
+Engine Monitoring Systems
+
+FADEC (Full Authority Digital Engine Control) is a computer system that fully manages engine operation, including fuel flow, ignition timing, and thrust settings, without direct mechanical pilot control. FADEC continuously monitors dozens of engine parameters and automatically adjusts settings to optimize performance, fuel efficiency, and engine protection, while also preventing conditions that could damage the engine.
+
+Engine sensors measure critical parameters such as exhaust gas temperature (EGT), oil pressure, fuel flow, and rotor speed (N1 and N2). If a sensor detects a reading outside safe operating limits, FADEC can automatically adjust engine output or alert the flight crew through cockpit warning systems, allowing early detection of potential engine problems before they become critical.
