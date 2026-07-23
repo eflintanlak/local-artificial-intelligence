@@ -1,0 +1,5 @@
+Aircraft Electrical Systems
+
+Modern aircraft use both AC (alternating current) and DC (direct current) electrical systems. The primary power source is typically a generator driven by the aircraft engines, producing 115V AC at 400Hz. This frequency is much higher than household power (50-60Hz) because it allows smaller, lighter transformers and motors, which is critical for reducing aircraft weight.
+
+DC power, usually at 28V, is used for many avionics and lighting systems. Aircraft batteries provide backup DC power in case of generator failure, ensuring critical systems remain operational during emergencies. The Auxiliary Power Unit (APU) is a small turbine engine that can generate electrical power on the ground or as a backup during flight, independent of the main engines.

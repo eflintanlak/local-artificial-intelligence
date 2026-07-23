@@ -1,0 +1,5 @@
+Power Distribution Systems
+
+Aircraft electrical power distribution uses a bus system, where multiple electrical buses distribute power to different aircraft systems. If one power source fails, the system can automatically switch to backup sources, ensuring critical systems remain powered. This redundancy is a key safety feature in aircraft design.
+
+Circuit breakers protect electrical systems from overload and short circuits, automatically disconnecting power if current exceeds safe limits. Unlike household circuit breakers, aircraft circuit breakers can often be manually reset by the pilot during flight if the fault was temporary, allowing quick recovery of important systems.

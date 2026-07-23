@@ -1,0 +1,5 @@
+Avionics Systems
+
+Avionics refers to the electronic systems used on aircraft, including communication, navigation, and display systems. The Global Positioning System (GPS) provides precise location data, while the Inertial Navigation System (INS) uses accelerometers and gyroscopes to calculate position without external signals, making it reliable even when GPS is unavailable.
+
+Communication systems include VHF radios for air traffic control communication and satellite communication systems for long-range flights over oceans. Modern aircraft use Glass Cockpit displays, which replace traditional analog gauges with digital screens showing flight data, navigation, and system status in an integrated format.

@@ -1,0 +1,5 @@
+Aircraft Sensors and Instruments
+
+The pitot-static system measures airspeed and altitude using air pressure differences. A pitot tube measures dynamic air pressure (from forward motion), while static ports measure ambient air pressure. The difference between these values is used to calculate airspeed, while static pressure alone determines altitude.
+
+Gyroscopic instruments, including the attitude indicator and heading indicator, use spinning gyroscopes to maintain orientation regardless of aircraft movement, helping pilots fly without visual reference to the horizon. Modern aircraft increasingly use MEMS (Micro-Electro-Mechanical Systems) sensors, which are smaller, lighter, and more reliable than traditional mechanical gyroscopes.

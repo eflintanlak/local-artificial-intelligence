@@ -1,0 +1,5 @@
+Flight Control Systems
+
+Fly-by-wire is a flight control system that replaces manual mechanical linkages with electronic controls. Pilot inputs are converted to electrical signals, processed by flight control computers, and then sent to actuators that move the control surfaces. This system allows for computer-assisted stability and can prevent pilots from making inputs that would exceed the aircraft's structural limits.
+
+Autopilot systems can control aircraft heading, altitude, and speed automatically, reducing pilot workload during long flights. Modern autopilot systems are integrated with Flight Management Systems (FMS), which can fly a pre-programmed route from takeoff to landing with minimal pilot intervention.
